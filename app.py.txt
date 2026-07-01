@@ -89,3 +89,4 @@ if st.button("🌱 Predict Crop", use_container_width=True):
     st.success(f"Recommended Crop: **{prediction[0]}**")
 
     st.balloons()
+
